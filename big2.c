@@ -8,5 +8,4 @@ printf("\nEnter the number 2 : ");
 scanf("%d",&num2);
 printf("\nBiggest number : %d ", num1 > num2? num1:num2);
 return 0;
-
 }
